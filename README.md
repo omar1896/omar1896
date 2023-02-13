@@ -1,5 +1,3 @@
-
-
 <h2 align="center">HELLO every one</h2>
 
 ###
@@ -22,7 +20,7 @@
 
 ###
 
-<p align="left">A digital clock and timer <br><br>https://omar1896.github.io/JS-Labs/day9/task2/<br><br>TO DO LIST <br>https://omar1896.github.io/JS-Labs/day8/</p>
+<p align="left">A digital clock and timer <br><br>https://omar1896.github.io/JS-Labs/day9/task2/</p>
 
 ###
 
