@@ -1,6 +1,5 @@
-Here's a README file for your GitHub profile:  
 
----
+
 
 # Hi there! 👋 I'm [Omar Alaa Mansour ]  
 
@@ -20,11 +19,3 @@ I am a passionate **Java Developer** with **2 years of experience** in building 
 - **Testing:** JUnit, Mockito  
 - **Other:** Docker, Maven, JWT Authentication  
 
-## 📫 Let's Connect!  
-- 🔗 [LinkedIn](#) (Add your LinkedIn link)  
-- ✉️ [Email](#) (Add your email)  
-- 🌍 [Portfolio](#) (If you have one)  
-
----
-
-You can update this with your real name, links, and any additional skills you want to highlight. Let me know if you need modifications! 🚀
